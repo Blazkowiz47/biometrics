@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+src/biometrics/__init__.py
+src/biometrics/eer.py
+src/biometrics/frr.py
+src/biometrics/iapar.py
+src/biometrics/threshold.py
+src/biometrics.egg-info/PKG-INFO
+src/biometrics.egg-info/SOURCES.txt
+src/biometrics.egg-info/dependency_links.txt
+src/biometrics.egg-info/requires.txt
+src/biometrics.egg-info/top_level.txt
