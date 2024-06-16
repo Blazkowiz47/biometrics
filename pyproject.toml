@@ -2,6 +2,8 @@
 requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
+
+
 [project]
 name = "biometrics"
 version = "0.0.1"
@@ -10,12 +12,16 @@ authors = [
 ]
 description = "Package for commonly used metrics in bio-metrics."
 readme = "README.md"
-requires-python = ">=3.1"
+requires-python = ">=3.6"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
+dependencies = [
+  "numpy",
+]
+
 
 [project.urls]
 Homepage = "https://github.com/Blazkowiz47/biometrics"
