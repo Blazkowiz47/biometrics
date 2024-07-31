@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
-Name: biometrics
-Version: 0.0.1
+Name: common_metrics
+Version: 0.0.6
 Summary: Package for commonly used metrics in bio-metrics.
 Author-email: Sushrut Patwardhan <sushrutpatwardhan@gmail.com>
 Project-URL: Homepage, https://github.com/Blazkowiz47/biometrics
